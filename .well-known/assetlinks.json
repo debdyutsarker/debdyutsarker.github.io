@@ -1,0 +1,24 @@
+[
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.viperbyte.app",
+      "sha256_cert_fingerprints": [
+        "88:A2:EA:0C:54:7D:2F:EB:CE:1E:0A:1D:0A:09:D2:26:D5:08:7E:76:12:45:21:BB:4B:0D:DA:82:85:6D:66:63",
+        "E9:CF:58:39:FF:7E:29:A2:6C:65:F3:C5:60:D7:0B:F3:A3:14:8A:DF:AD:A3:AA:15:40:07:37:11:97:50:0B:4A",
+        "74:B3:8B:1A:43:F1:6D:03:BF:D2:06:17:67:20:4C:C8:A9:1E:A5:A1:B0:BC:3B:9D:EB:0E:0A:64:A4:FE:DD:C3"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.viperbyte.app.test",
+      "sha256_cert_fingerprints": [
+        "74:B3:8B:1A:43:F1:6D:03:BF:D2:06:17:67:20:4C:C8:A9:1E:A5:A1:B0:BC:3B:9D:EB:0E:0A:64:A4:FE:DD:C3"
+      ]
+    }
+  }
+]
